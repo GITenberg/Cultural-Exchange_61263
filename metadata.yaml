@@ -5,6 +5,9 @@ contributor:
     agent_name: Francis, R. D.
     gutenberg_agent_id: '51333'
     url: http://www.gutenberg.org/2009/agents/51333
+covers:
+- cover_type: archival
+  image_path: 61263-h/images/cover.jpg
 creator:
   author:
     agent_name: Laumer, Keith
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24817
     wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61263#Cultural-Exchange
 gutenberg_issued: '2020-01-28'
 gutenberg_type: Text
 identifiers:
